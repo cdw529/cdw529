@@ -1,5 +1,6 @@
 ###
-Software projects for biomedical research in the area of Retinal Genetics.
+biomedical research
+Detail soon
 <!--
 **cdw529/cdw529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
